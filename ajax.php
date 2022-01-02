@@ -1119,3 +1119,4 @@ EOT;
 			$ajax->{ucfirst($function)}();
 		}
 	}
+?>

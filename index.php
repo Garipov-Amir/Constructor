@@ -17,3 +17,4 @@
 	include_once 'include/view.php';
 
 	$view = new View();
+?>
