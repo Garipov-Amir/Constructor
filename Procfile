@@ -1,1 +1,1 @@
-web: ajax.php
+web: index.php
